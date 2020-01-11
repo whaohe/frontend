@@ -22,3 +22,8 @@
 * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6#heading-2)  
 * [超棒黑客必备表单 Awesome](https://github.com/shmilylty/awesome-hacking#教程)  
 * [iP or domain name lookup](https://webiplookup.com/)  
+
+### Windows10安装Ubuntu
+* [修改双系统（win10+ubuntu）启动顺序和启动时间](https://www.jianshu.com/p/f3c3beb7f205)
+* [UEFI启动模式下安装Ubuntu 16.04教程](https://blog.csdn.net/Jesse_Mx/article/details/61425361)
+* [UEFI模式Windows10上安装Ubuntu 18.04.1 LTS双系统](https://www.mzihen.com/how-to-install-ubuntu-18-04-lts-with-windows-10-on-uefi/)
